@@ -6,7 +6,16 @@
     <title>Book List</title>
     <style>
         body{
-            background-color: gray;
+            background-color: gainsboro;
+        }
+        .success, .error{
+
+        }
+        .error{
+            background-color: red;
+        }
+        .success{
+            background-color: green;
         }
     </style>
 </head>
@@ -24,10 +33,10 @@
             </div>
             <div>
                 <label for="year">Year</label>
-                <input type="text" id="year" class="u-full-width">
+                <input type="number" min="0" step="1" id="year" class="u-full-width">
             </div>
+            <input type="submit" value="Submit" class="u-full-width">
         </form>
-        <hr>
         <table class="u-full-width">
             <thead>
                 <tr>
