@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5112bed-253f-4cb4-a41c-b2fc86f02dea" name="Default Changelist" comment="">
+    <list default="true" id="e5112bed-253f-4cb4-a41c-b2fc86f02dea" name="Default Changelist" comment="Validation and Alert added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,25 +56,37 @@
       <workItem from="1606297763689" duration="935000" />
       <workItem from="1606299726145" duration="1510000" />
       <workItem from="1606758729255" duration="323000" />
-      <workItem from="1606761214544" duration="4298000" />
+      <workItem from="1606761214544" duration="9052000" />
+      <workItem from="1606913972838" duration="2092000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Book To List added">
+      <created>1606813117052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606813117053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="561" y="261" key="Github.ShareDialog" timestamp="1606254739233">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606254739233" />
-    <state x="532" y="68" key="Github.UntrackedFilesDialog" timestamp="1606254750659">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="532" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606254750659" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606254695330">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606254695330" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Book To List added" />
+    <MESSAGE value="Validation and Alert added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validation and Alert added" />
   </component>
 </project>
